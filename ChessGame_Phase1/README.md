@@ -57,6 +57,3 @@ javadoc -d docs/api -sourcepath src -subpackages chess
 
 Generated HTML documentation is placed in `docs/api`.
 
-## Team workflow reminder
-
-Follow the course's Git requirements: commit the plan before coding, use `main` and `dev`, work on `feature/<github-username>` branches, open pull requests, review a teammate's pull request, and keep remote branches available for grading. Replace placeholders in `docs/PHASE1_PLAN.md` and create an individual AI usage notes file for each team member.
