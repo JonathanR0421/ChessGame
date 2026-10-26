@@ -5,8 +5,8 @@
 ## Team branches
 
 - Repository owner: `JonathanR0421`
-- Member 1: `Jonathan JonathanR0421`
-- Member 2: `Ishar ishark8` 
+- Member 1: `JonathanR0421`
+- Member 2: `ishark8`
 
 Use the instructor-required branches: `main`, `dev`, and one `feature/<github-username>` branch per member.
 
